@@ -1,6 +1,12 @@
-# gemsExp
+# <img src="gems.png" alt="*GEMS Logo*" width="5%"/> gemsExp
+
+## The future of GEMS is finally here.
 GEMS seems built different. It now uses Rustlang!
 "Remaking 99% of the functionality in GEMS Classic on the first night of development was suprisingly easy." -- Sparksammy
+
+## Important notices!
+
+In order to contribute, you must follow the [Sparksammy C.O.C.](https://github.com/sparksammy/sparksammycoc)
 
 # Requirements
 1. Install rust nightly using rustup
