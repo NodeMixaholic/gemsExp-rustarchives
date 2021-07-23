@@ -8,7 +8,7 @@ GEMS seems built different. It now uses Rustlang!
 
 # Tutorial
 
-1. Create a new directory with a decent name "example: gems-exp-build
+1. Create a new directory with a decent name "example: gems-exp-build"
 2. Put my fork of "bootloader" by rust-osdev ( https://github.com/sparksammy/bootloader ) into the directory (keep it in it's folder and the name of the folder!)
 3. Put this project in there too (again, keep it in the folder it comes with and it's name!)
 4. cd into "gemsExp-main"
