@@ -14,5 +14,5 @@ GEMS seems built different. It now uses Rustlang!
 4. cd into "gemsExp-main"
 5. run compile.sh
 6. if things break, try doing what the mythically magic terminal tells you to do.
-7. and then repeat steps 5 and 6 until it outputs something like "Created bootable disk image at /home/kelpy/bootloader-main/target/x86_64-bootloader/release/boot-bios-GEMS-EXPERIENCE.img"
-8. Binaries are compiled to 
+7. and then repeat steps 5 and 6 until it outputs something like "Created bootable disk image at bootloader-main/target/x86_64-bootloader/release/boot-bios-GEMS-EXPERIENCE.img"
+8. Binaries are compiled to the folder "bootloader-main/target/x86_64-bootloader/release/"
