@@ -1,4 +1,6 @@
 # <img src="gems.png" alt="*GEMS Logo*" width="5%"/> gemsExp
+# Deprecation Notice
+Instead of starting over, I have decided to just fork GEMS NT and make that the next version of GEMS.
 
 ## The future of GEMS is finally here.
 GEMS seems built different. It now uses Rustlang!
